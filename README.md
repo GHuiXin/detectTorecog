@@ -12,7 +12,8 @@ As an example of the data preparation steps, you can use the following command t
 
 Then, the dataset has been converted to MMOCR format, and the file directory structure is as follows:
 
-`data/dataset
+`
+data/dataset
 	├── crops
 	│   ├── test
 	│   └── train
