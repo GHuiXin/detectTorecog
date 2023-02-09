@@ -17,4 +17,5 @@ Then, the dataset has been converted to MMOCR format, and the file directory str
 	│   ├── test
 	│   └── train
 	├── train_label.json
-	└── test_label.json`
+	└── test_label.json
+`
